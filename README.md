@@ -60,7 +60,11 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=moviefan322&theme=radical&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moviefan322&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://stats-git-main-moviefan322.vercel.app/api/top-langs/?username=moviefan322&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moviefan322&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
