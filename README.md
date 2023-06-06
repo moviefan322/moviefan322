@@ -61,6 +61,11 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=moviefan322&theme=radical&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
+![](https://raw.githubusercontent.com/moviefan322/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moviefan322&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
