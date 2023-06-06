@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" />
 <div id="badges">
-  <a href="https://www.linkedin.com/in/phil-n-9b2334186/">
+  <a href="https://www.linkedin.com/in/philip-neumann-9b2334186/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <a href="https://www.youtube.com/philipscottneumann">
@@ -27,7 +27,9 @@
   - 👨‍💻 Relatively new to coding but learning new tools and technologies at an alarming rate
   - 🌱 Content writer for Superconductor Week
   - 🎥 Filmmaker
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-moviefan322-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phil-n-9b2334186/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-moviefan322-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philip-neumann-9b2334186/)
+
+
 
 
 ---
