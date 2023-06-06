@@ -27,7 +27,8 @@
   - 👨‍💻 Relatively new to coding but learning new tools and technologies at an alarming rate
   - 🌱 Content writer for Superconductor Week
   - 🎥 Filmmaker
-  - 📫 How to reach me: <a href="https://www.linkedin.com/in/phil-n-9b2334186/">[![Linkedin Badge](https://img.shields.io/badge/-moviefan322-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/phil-n-9b2334186/])</a>
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-moviefan322-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phil-n-9b2334186/)
+
 
 ---
 
