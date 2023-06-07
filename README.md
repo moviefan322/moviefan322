@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/> 
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=moviefan322&style=flat-square&color=blue" alt="visit counter"/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="visit counter"/>
   <h1>
     Greetings!
   </h1>
