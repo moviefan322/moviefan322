@@ -28,7 +28,7 @@
   - 🌱 Content writer for Superconductor Week
   - 🎥 Filmmaker
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-moviefan322-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philip-neumann-9b2334186/)
-- Check out <a href=https://next-ts-blog-lake.vercel.app/>my dev blog</a>!
+- 📝 Check out <a href=https://next-ts-blog-lake.vercel.app/>my dev blog</a>!
 
 
 
@@ -42,6 +42,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgresSQL"  alt="PostgresSQL" width="40" height="40"/>&nbsp;
