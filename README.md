@@ -28,7 +28,7 @@
   - 🌱 Content writer for Superconductor Week
   - 🎥 Filmmaker
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-moviefan322-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philip-neumann-9b2334186/)
-- 📝 Check out <a href=https://next-ts-blog-lake.vercel.app/>my dev blog</a>!
+- 📝 Check out <a href=https://moviefan322.github.io/>my portfolio</a>!
 
 
 
