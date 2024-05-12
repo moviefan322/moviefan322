@@ -48,7 +48,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgresSQL"  alt="PostgresSQL" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" title="Sequelize"  alt="Sequelize" width="40" height="40"/>&nbsp;  
           <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL"  alt="GraphQL" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="NextJS"  alt="NextJS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS"  alt="NextJS" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS"  alt="NestJS" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku"  alt="Heroku" width="40" height="40"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest"  alt="Jest" width="40" height="40"/>&nbsp;
